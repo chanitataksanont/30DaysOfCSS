@@ -1,5 +1,5 @@
 body{
-  background-color:pink;
+  background-color:rgb(185, 115, 185);
   height: 100vh;
   display: flex;
   align-items: center;
@@ -7,7 +7,7 @@ body{
 }
 
 .card{
-  background-color: #38BEDC;
+  background-color: #ddd163;
   display: flex;
   position: relative;
   overflow: hidden;
